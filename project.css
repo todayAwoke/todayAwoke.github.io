@@ -1,0 +1,29 @@
+*{
+margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+body{
+    padding: 23px;
+    margin: 0  auto;
+    width: 700px;
+    
+}
+.coll{
+    margin-left: 100px;
+
+}
+.pro{
+    text-align: center;
+    font-family: fantasy;
+    background-color: cornflowerblue;
+    color: aliceblue;
+    
+}
+.thumb-bar img{
+    width: 12.5%;
+    float: left;
+    border:  1px solid Black;
+    cursor: pointer;
+}
